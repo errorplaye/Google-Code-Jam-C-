@@ -9,7 +9,10 @@ int main() {
 	//nestingDepth();
 	//parentPartnering();
 	//foregone();
-	ownWay();
+	//ownWay();
+	//quali3();
+	//appendSort();
+	primeTime();
 
 	return 0;
 }

@@ -144,6 +144,11 @@
     <ClCompile Include="ParentPartnering.cpp" />
     <ClCompile Include="Foregone.cpp" />
     <ClCompile Include="OwnWay.cpp" />
+    <ClCompile Include="MedianSort.cpp" />
+    <ClCompile Include="MoonsUmbrellas.cpp" />
+    <ClCompile Include="Quali3.cpp" />
+    <ClCompile Include="AppendSort.cpp" />
+    <ClCompile Include="PrimeTime.cpp" />
     <ClCompile Include="Vestigium.cpp" />
   </ItemGroup>
   <ItemGroup>
