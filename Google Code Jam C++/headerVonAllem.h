@@ -11,5 +11,8 @@ int quali2();
 int quali3();
 int appendSort();
 int primeTime();
+int brokenClock();
+int closestPick();
+int roaringYear();
 
 #endif 

@@ -12,7 +12,10 @@ int main() {
 	//ownWay();
 	//quali3();
 	//appendSort();
-	primeTime();
+	//primeTime();
+	//brokenClock();
+	//closestPick();
+	roaringYear();
 
 	return 0;
 }

@@ -149,6 +149,9 @@
     <ClCompile Include="Quali3.cpp" />
     <ClCompile Include="AppendSort.cpp" />
     <ClCompile Include="PrimeTime.cpp" />
+    <ClCompile Include="BrokenClock.cpp" />
+    <ClCompile Include="ClosestPick.cpp" />
+    <ClCompile Include="RoaringYear.cpp" />
     <ClCompile Include="Vestigium.cpp" />
   </ItemGroup>
   <ItemGroup>
